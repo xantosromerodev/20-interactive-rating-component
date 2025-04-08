@@ -1,2 +1,2 @@
-# 20-interactive-rating-component
-Interactive Rating Component
+# Interactive Rating Component - Frontend Club
+
